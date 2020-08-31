@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portafolio/portafolio01personal/static/css/main.04547362.chunk.css",
+    "main.js": "/portafolio/portafolio01personal/static/js/main.44216403.chunk.js",
+    "main.js.map": "/portafolio/portafolio01personal/static/js/main.44216403.chunk.js.map",
+    "runtime-main.js": "/portafolio/portafolio01personal/static/js/runtime-main.fb56f183.js",
+    "runtime-main.js.map": "/portafolio/portafolio01personal/static/js/runtime-main.fb56f183.js.map",
+    "static/css/2.11829350.chunk.css": "/portafolio/portafolio01personal/static/css/2.11829350.chunk.css",
+    "static/js/2.2e308657.chunk.js": "/portafolio/portafolio01personal/static/js/2.2e308657.chunk.js",
+    "static/js/2.2e308657.chunk.js.map": "/portafolio/portafolio01personal/static/js/2.2e308657.chunk.js.map",
+    "index.html": "/portafolio/portafolio01personal/index.html",
+    "precache-manifest.1b7dfe747f854fd7d13349765f99e3d4.js": "/portafolio/portafolio01personal/precache-manifest.1b7dfe747f854fd7d13349765f99e3d4.js",
+    "service-worker.js": "/portafolio/portafolio01personal/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/portafolio/portafolio01personal/static/css/2.11829350.chunk.css.map",
+    "static/css/main.04547362.chunk.css.map": "/portafolio/portafolio01personal/static/css/main.04547362.chunk.css.map",
+    "static/js/2.2e308657.chunk.js.LICENSE.txt": "/portafolio/portafolio01personal/static/js/2.2e308657.chunk.js.LICENSE.txt",
+    "static/media/dota-img-1.jpg": "/portafolio/portafolio01personal/static/media/dota-img-1.556626e7.jpg",
+    "static/media/dota-img-2.jpg": "/portafolio/portafolio01personal/static/media/dota-img-2.1ebf41a0.jpg",
+    "static/media/dota-img-3.jpg": "/portafolio/portafolio01personal/static/media/dota-img-3.51f5f3d0.jpg",
+    "static/media/fondo.jpg": "/portafolio/portafolio01personal/static/media/fondo.e5fdeac7.jpg",
+    "static/media/logo-dota.jpg": "/portafolio/portafolio01personal/static/media/logo-dota.f792bb4c.jpg",
+    "static/media/logo-rata.png": "/portafolio/portafolio01personal/static/media/logo-rata.02c3e4f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb56f183.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.2e308657.chunk.js",
+    "static/css/main.04547362.chunk.css",
+    "static/js/main.44216403.chunk.js"
+  ]
+}
